@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'NotoSans-R';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Noto Sans Medium'), local('NotoSans-Medium'),
+    url(../font/NotoSansKR-Regular-Hestia.eot),
+    url(../font/NotoSansKR-Regular-Hestia.eot?#iefix) format('embedded-opentype'),
+    url(../font/NotoSansKR-Regular-Hestia.woff) format('woff'),
+    url(../font/NotoSansKR-Regular-Hestia.otf) format('opentype');
+}
